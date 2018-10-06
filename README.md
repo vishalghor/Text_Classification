@@ -11,7 +11,9 @@ Models trained:
 
 
 1.SVM classification  -- verified & Done
+
 2.Naiive Bayes Classification   --verified & Done
+
 3.Neural Network Based classifier(bi directional  LSTM  based)   --verified & Done(needs to be trained on newsgroup data)
 
 
